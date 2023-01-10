@@ -4,7 +4,6 @@
   <p>Cybersecurity Analyst | MBA Software Engineering | Oracle IAM | Java Developer | Sec4U Cybersecurity</p>
   <ul>
     <li>🇧🇷 São Paulo, Brazil</li>
-    <li>📚 Software engineering student</li>
     <li>✨ "it's not a bug, it's a feature"</li>
   </ul>
 </div>
