@@ -1,11 +1,11 @@
 <h2 align="left">Humberto</h2>
 
 <div align="left">
-  <p>Information Security Analyst | Oracle IAM | Java Developer | Sec4U Cybersecurity</p>
+  <p>Cybersecurity Analyst | MBA Software Engineering | Oracle IAM | Java Developer | Sec4U Cybersecurity</p>
   <ul>
-    <li>🇧🇷 São Paulo, Brasil</li>
-    <li>✨ Creating bugs since 2020</li>
+    <li>🇧🇷 São Paulo, Brazil</li>
     <li>📚 Software engineering student</li>
+    <li>✨ "it's not a bug, it's a feature"</li>
   </ul>
 </div>
 
